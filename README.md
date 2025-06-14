@@ -35,12 +35,15 @@ A simple and responsive **Todo List Web Application** built using **HTML**, **CS
 
 ---
 
+
+---
+
 ## 📸 How It Works
 
 1. Enter a task in the input box and click **Add**.
-2. Tasks appear in a list with options to mark as **completed** or **delete**.
+2. Tasks appear in a list with options to mark as **Completed** or **Delete**.
 3. Completed tasks are styled differently (e.g., strikethrough).
-4. *(Optional)* Tasks persist in browser using localStorage.
+4. *(Optional)* Tasks can be saved in localStorage for persistence.
 
 ---
 
@@ -57,11 +60,21 @@ This project is created to demonstrate:
 
 ## 🚀 Future Improvements
 
-- Add task filtering (All, Completed, Pending)  
-- Edit tasks in-place  
-- Add due dates and reminders  
-- Store tasks using localStorage or connect to backend
+- 🔍 Task filtering (All, Completed, Pending)  
+- ✏️ Edit tasks in-place  
+- ⏰ Add due dates and reminders  
+- 🌐 Store tasks using localStorage or integrate with a backend
 
 ---
 
-## 🙌 Feel free to fork, modify, and enhance this project!
+## 🌐 Live Demo
+
+You can check out the working application here:  
+👉 [https://pari-image-search.netlify.app/](https://pari-image-search.netlify.app/)
+
+---
+
+## 🙌 Contribution
+
+Feel free to **fork**, **modify**, and **enhance** this project.  
+Pull requests and suggestions are welcome!
