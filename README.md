@@ -70,7 +70,7 @@ This project is created to demonstrate:
 ## 🌐 Live Demo
 
 You can check out the working application here:  
-👉 [https://pari-image-search.netlify.app/](https://pari-image-search.netlify.app/)
+👉 [Live Demo](https://pari-todo-list.netlify.app/)
 
 ---
 
